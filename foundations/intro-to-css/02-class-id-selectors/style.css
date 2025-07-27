@@ -1,0 +1,21 @@
+.paragraph {
+  background-color: rgba(250, 128, 114, 0.712);
+
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.weight {
+  font-size: 24px;
+  font-size: bold;
+}
+
+#blue-div {
+  color: blue;
+  font-size: 36px;
+}
+
+.div-style {
+  font-size: 24px;
+  background-color: rgb(158, 236, 39);
+  font-weight: bold;
+}
